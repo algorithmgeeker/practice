@@ -1,0 +1,19 @@
+1. Merge Sort [DONE] - 16 Aug 2020
+2. Counting Inversion [DONE]
+3. Quick Sort[DONE]
+4. Randomize Quick Sort [DONE]
+5. Selection
+6. Min-Cut Problem [Not Needed]
+7. BFS [DONE]
+8. Shortest Path using BFS [DONE]
+9. Connected Components using BFS [DONE]
+10. DFS [DONE]
+11. Topological Sort using DFS and without DFS [DONE]
+12. Strongly Connected Component using DFS [DONE]
+13. Single Source Shortest Path (Dijkstra's Algorithm)
+14. Dijkstra with Heap
+15. Heap
+16. Binary Search Tree
+17. Red Black Tree
+18. Hashing
+19. Bloom Filters
